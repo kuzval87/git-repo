@@ -1,2 +1,2 @@
-print ("Hello world!");
-print ("hekllo");
+print ("Hello world!");;
+print ("hekllo");;
